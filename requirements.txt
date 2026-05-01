@@ -1,0 +1,2 @@
+telethon 
+cohere==4.57.0
